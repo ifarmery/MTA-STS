@@ -1,4 +1,4 @@
 version: STSv1
-mode: testing
+mode: enforce
 mx: jmat-org-uk.mail.eo.outlook.com
 max_age: 86400
